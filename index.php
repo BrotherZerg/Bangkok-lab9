@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <title>UX Design Basics</title>
+  <!-- Custom styles for this template -->
+  <link href="css/scrolling-nav.css" rel="stylesheet">
+  <link href = "css/override.css" rel="stylesheet">
+</head>
+
+
+<body id="page-top">
+  <!-- Navigation -->
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">UX Design Process</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item" id="long-nav">
+            <a class="nav-link js-scroll-trigger" href="#introduction">What is UX</a>
+          </li>
+          <li class="dropdown">
+            <a class="nav-link js-scroll-trigger" data-toggle="dropdown" role= "button" href="#">Process</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a class="js-scroll-trigger" href="#research">User Research</a>
+              </li>
+              <li>
+                <a class="js-scroll-trigger" href="#design">Wireframing</a>
+              </li>
+              <li>
+                <a  class="js-scroll-trigger" href="#prototyping">Prototyping</a>
+              </li>
+              <li>
+                <a class="js-scroll-trigger" href="#testing">Testing</a>
+              </li>
+              <li>
+                <a class="js-scroll-trigger" href="#evaluation">Evaluation</a>
+              </li>
+            </ul>
+          </li>
+          <!--<li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#survey">Survey</a>
+          </li>-->
+        </ul>
+      </div><!--collapse navbar-collapse-->
+    </div><!--container-->
+  </nav>
+
+  <header class="bg-primary text-left">
+    <div class="headersection">
+      <h1>The UX Design Process:
+      <br>
+      A Beginner’s Guide to User Experience</h1>
+    </div>
+  </header>
+
+	<!-- Content from: https://usabilitygeek.com/ux-design-process-beginners-guide-user-experience/ -->
+  	<section id="introduction">
+        <div class="container">
+      	<p class="lead"> UX “encompasses all aspects of the end-user’s interaction with the company, its services, and its products.” It may include elements such as: </p>
+      		<ul class="lead">
+      			<li>How products operate</li>
+      			<li>The experience of buying, opening and using the product for the first time</li>
+      			<li>Upgrading to new product versions</li>
+      			<li>Learning how to use the product</li>
+      			<li>Tech support and product education</li>
+      		</ul>
+      	<p class="lead"> A good UX is usually defined by its elegance and ease of use. It presents a seamless combination of engineering and marketing, as well as elements of graphic, industrial and interface design. In this article we explain the foundations for the UX Design process which will help you create better user experiences.</p>
+      </div><!--container-->
+    </section><!--introduction-->
+
+		<section id="research" class="bg-light">
+      <div class="container">
+        <h2>User Research</h2>
+        <img class="imagebox" src="images/user-research.png" alt="Diverse users icons">
+     			<p class="lead">To create a great user experience, developers must first take the time necessary to understand their end users. Conducting research helps developers get into customers’ mindsets. Common modes of research include listening to and observing customers; interviewing; and offering online surveys.
+             The data from this research can help developers create “personas,” or fictional representations of real end users, designed to depict their motivations, needs, goals and expectations. In doing this, designers are better able to keep the customer’s mindset at the forefront of everything they do.</p>
+      </div><!--container-->
+    </section><!--research-->
+
+		<section id="design">
+      <div class="container">
+  			<h2>Wireframing</h2>
+        <img class="imagebox" src="images/design.png" alt="wireframe">
+  			<p class="lead">Once enough research is collected, developers can then begin to think about how to design their products. In the design phase, developers begin to structure their content and think about the “customer journey,” or the series of steps the end user will take when using the product.It’s common to use “information architecture,” the process of structuring, labeling and organizing content. This is done using “wireframing,” the act of physically creating an illustration that demonstrates how a site, software program or app will look.These techniques help designers increase customer self-sufficiency, improve the effectiveness of page navigation and enhance the overall customer experience.</p>
+      </div><!--container-->
+    </section><!--design-->
+
+		<section id="prototyping" class="bg-light">
+      <div class="container">
+  			<h2>Prototyping</h2>
+        <img class = "imagebox" src="images/prototype.png" alt="high fidelity prototype">
+  			<p class="lead">In the prototyping phase, designers create a draft version of the site or product. Aspects of prototyping may include: </p>
+  				<ul>
+  					<li>Experimenting with designs</li>
+  					<li>Repairing inconsistencies and errors</li>
+  					<li>Developing data and using it to improve upon original ideas</li>
+  					<li>Demonstrating products to management</li>
+  					<li>Checking to see that products are functional and usable</li>
+  				</ul>
+          <p class="lead"> Prototyping generally occurs before any coding can begin.</p>
+        </div><!--container-->
+		</section><!--prototyping-->
+
+		<section id="testing">
+      <div class="container">
+  			<h2>Testing</h2>
+        <img class="imagebox" src="images/testing.jpg" alt="user testing">
+  			<p class="lead">After a solid prototype is built, developers are then able to test their product. In UX, tests can be as simple as observing customer/product interactions or as complex as presenting different versions of a product to the public to see which is better received. Developers may offer questionnaires and surveys or even do further interviews with customers to identify spots of difficulty or confusion. Because the purpose of testing is to eliminate problems, it should ideally be done as early as possible
+  			</p>
+      </div><!--container-->
+		</section><!--testing-->
+
+		<section id="evaluation"  class="bg-light">
+      <div class="container">
+  		<h2>Evaluation</h2>
+  		<img class="imagebox" src="images/evaluation.jpg" alt="data graphics">
+  			<p class="lead">Just because a product officially launches doesn’t mean the UX work is over. In fact, UX is an ongoing process that continues for as long as a product’s in use. Developers must continually test product performance to see if it meets customer satisfaction and if any improvements can be made. Measurements might include items such as how likely customers are to recommend products to others and how they use the product itself.<br>
+
+          Ultimately, the true goal of UX is to allow businesses to make products that are useful and pleasurable for customers to purchase. When done right, UX is one of the most valuable assets a company can offer.</p><br><br><br>
+
+          <div>
+            <h2>Thanks for reading our article! We'd love to get feedback:</h2>
+            <a href="survey.php">Take the Survey</a>
+          </div>
+
+      </div><!--container-->
+    </section><!--evaluation-->
+    <!--content-->
+
+
+
+    
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p>Copyright &copy; Team Bangkok, 2017</p>
+        <button><a href="login.php">Admin Log-in</a></button>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+      <!-- Plugin JavaScript -->
+      <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+      <!-- Custom JavaScript for this theme -->
+      <script src="js/scrolling-nav.js"></script>
+      <script src="js/submit-form.js"></script>
+</body>
+</html>
