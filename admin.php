@@ -139,16 +139,16 @@
               <input type="checkbox" class="software" name="software[]" value="balsamiq" id="balsamiq">
               <label for="balsamiq">Balsamiq</label><br>
 
-              <input type="checkbox" class="software" name="software[]"value="sketch" id="sketch">
+              <input type="checkbox" class="software" name="software[]" value="sketch" id="sketch">
               <label for="sketch">Sketch</label><br>
 
-              <input type="checkbox" class="software" name="software[]"value="illustrator" id="illustrator">
+              <input type="checkbox" class="software" name="software[]" value="illustrator" id="illustrator">
               <label for="illustrator">Adobe Illustrator</label><br>
 
               <input type="checkbox" class="software" name="software[]" value="invision" id="invision">
               <label for="invision">Invision</label><br>
 
-              <input type="checkbox" class="software" name="software[]"value="another" id="another">
+              <input type="checkbox" class="software" name="software[]" value="another" id="another">
               <label for="another">Another app</label><br>
 
               <input type="checkbox" class="software" name="software[]" value="none" id="none">
