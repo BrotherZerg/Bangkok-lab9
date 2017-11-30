@@ -81,7 +81,7 @@ p {
 
 .table{
   display: block;
-  word-break: break-word;
+  word-break: break-all;
 }
 .hide {
   display: none !important;
