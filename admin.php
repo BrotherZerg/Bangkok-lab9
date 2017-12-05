@@ -34,7 +34,7 @@
     <div class="container">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">UX Design Process</a>
     </div>
-    <button>Log Out</button>
+        <a href="logout.php" class="btn btn-danger">Sign Out</a>
   </nav>
 	<header class="bg-primary text-left">
 		<div class="headersection">
