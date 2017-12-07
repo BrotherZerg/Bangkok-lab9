@@ -90,7 +90,7 @@
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
           <div class="heading">
-            <h3><span>What is UX</span></h3>
+            <h3><span>What is UX?</span></h3>
           </div>
           <div class="sub-heading">
             <p> User experience (UX) design is the process of creating products that provide meaningful and personally relevant experiences. UX “encompasses all aspects of the end-user’s interaction with the company, its services, and its products.” It may include elements such as: </p>
@@ -101,7 +101,7 @@
             <li>Learning how to use the product</li>
             <li>Tech support and product education</li>
           </ul>
-        <p> A good UX is usually defined by its elegance and ease of use. It presents a seamless combination of engineering and marketing, as well as elements of graphic, industrial and interface design. In this article we explain the foundatio
+        <p> A good UX is usually defined by its elegance and ease of use. It presents a seamless combination of engineering and marketing, as well as elements of graphic, industrial and interface design. In this article we explain the foundations for the UX Design process which will help you create better user experiences.
           </div>
         </div>
       </div>
@@ -120,8 +120,7 @@
             <h3><span>User Research</span></h3>
           </div>
           <div class="sub-heading">
-            <p>To create a great user experience, developers must first take the time necessary to understand their end users. Conducting research helps developers get into customers’ mindsets. Common modes of research include listening to and observing customers; interviewing; and offering online surveys.
-             The data from this research can help developers create “personas,” or fictional representations of real end users, designed to depict their motivations, needs, goals and expectations. In doing this, designers are better able to keep the customer’s mindset at the forefront of everything they do.</p>
+            <p>To create a great user experience, developers must first take the time necessary to understand their end users. Conducting research helps developers get into customers’ mindsets. Common modes of research include listening to and observing customers; interviewing; and offering online surveys. The data from this research can help developers create “personas,” or fictional representations of real end users, designed to depict their motivations, needs, goals and expectations. In doing this, designers are better able to keep the customer’s mindset at the forefront of everything they do.</p>
           </div>
         </div>
       </div>
@@ -138,7 +137,7 @@
             <h3><span>Wireframing</span></h3>
           </div>
           <div class="sub-heading">
-            <p> Once enough research is collected, developers can then begin to think about how to design their products. In the design phase, developers begin to structure their content and think about the “customer journey,” or the series of steps the end user will take when using the product.It’s common to use “information architecture,” the process of structuring, labeling and organizing content. This is done using “wireframing,” the act of physically creating an illustration that demonstrates how a site, software program or app will look.These techniques help designers increase customer self-sufficiency, improve the effectiveness of page navigation and enhance the overall customer experience.</p>
+            <p>Once enough research is collected, developers can then begin to think about how to design their products. In the design phase, developers begin to structure their content and think about the “customer journey,” or the series of steps the end user will take when using the product. It’s common to use “information architecture,” the process of structuring, labeling and organizing content. This is done using “wireframing,” the act of physically creating an illustration that demonstrates how a site, software program or app will look. These techniques help designers increase customer self-sufficiency, improve the effectiveness of page navigation and enhance the overall customer experience.</p>
           </div>
         </div>
       </div>
@@ -180,7 +179,7 @@
             <h3><span>Testing</span></h3>
           </div>
           <div class="sub-heading">
-            <p> After a solid prototype is built, developers are then able to test their product. In UX, tests can be as simple as observing customer/product interactions or as complex as presenting different versions of a product to the public to see which is better received. Developers may offer questionnaires and surveys or even do further interviews with customers to identify spots of difficulty or confusion. Because the purpose of testing is to eliminate problems, it should ideally be done as early as possible.</p>
+            <p>After a solid prototype is built, developers are then able to test their product. In UX, tests can be as simple as observing customer/product interactions or as complex as presenting different versions of a product to the public to see which is better received. Developers may offer questionnaires and surveys or even do further interviews with customers to identify spots of difficulty or confusion. Because the purpose of testing is to eliminate problems, it should ideally be done as early as possible.</p>
           </div>
         </div>
       </div>
@@ -197,9 +196,8 @@
             <h3><span>Evaluation</span></h3>
           </div>
           <div class="sub-heading">
-            <p>Just because a product officially launches doesn’t mean the UX work is over. In fact, UX is an ongoing process that continues for as long as a product’s in use. Developers must continually test product performance to see if it meets customer satisfaction and if any improvements can be made. Measurements might include items such as how likely customers are to recommend products to others and how they use the product itself.<br>
-
-            Ultimately, the true goal of UX is to allow businesses to make products that are useful and pleasurable for customers to purchase. When done right, UX is one of the most valuable assets a company can offer.</p>
+            <p>Just because a product officially launches doesn’t mean the UX work is over. In fact, UX is an ongoing process that continues for as long as a product’s in use. Developers must continually test product performance to see if it meets customer satisfaction and if any improvements can be made. Measurements might include items such as how likely customers are to recommend products to others and how they use the product itself.
+Ultimately, the true goal of UX is to allow businesses to make products that are useful and pleasurable for customers to purchase. When done right, UX is one of the most valuable assets a company can offer.</p>
           </div>
         </div>
       </div>
@@ -211,8 +209,8 @@
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
           <div class="heading">
-            <p><strong>Thanks for reading our article! We'd love to get feedback. Please fill out the below survey to help us out!</strong><hr>
-            <a href="survey.php" class="button1">Click here to take a survey</a></p>
+            <p><strong>Thanks for reading! We'd love to get feedback. Please consider filling out a survey to contribute to our UX design.</strong><hr>
+            <a href="survey.php" class="button1">Continue to Survey</a></p>
           </div>
         </div>
       </div>
@@ -239,13 +237,12 @@
         <div class="row">
           <div class="col-md-12">
             <div class="aligncenter">
-              <p>Copyright &copy; 2017 - This webpage is created by Team Bangkok
+              <p>Copyright &copy; 2017 - This webpage created by Team Bangkok
               <br>
-                Here is a reference we used for assignment 9:
-                <a href="http://urcsc174.org/bangkok/CSC174_Lab08_UserSurvey/">CSC174_Lab08_UserSurvey</a></li>
+                Content from <a href="http://urcsc174.org/bangkok/CSC174_Lab08_UserSurvey/">CSC 174: Bangkok Lab 8</a></li></p>
 
-                <a href="login.php" class="button2">Admin Login</a>
-              </p>
+                <a href="login.php" class="button2">Administrator Log-in</a>
+              
             </div>
           </div>
         </div>
